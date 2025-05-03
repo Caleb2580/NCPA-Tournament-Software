@@ -1,6 +1,6 @@
 # NCPA
 
-Website: [https://tournaments.ncpaofficial.com/](url)
+Website: [Link]https://tournaments.ncpaofficial.com/)
 
 This project was developed for a client through my company, VitalIT Solutions LLC, for the National Collegiate Pickleball Association (NCPA). The software includes an intuitive admin panel for managing tournaments and player profiles, along with a sleek user interface that allows players to easily create accounts, register for tournaments, and track their personal statistics.
 

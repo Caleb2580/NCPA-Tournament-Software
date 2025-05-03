@@ -28,16 +28,16 @@ I also handled project management, organizing timelines, setting deliverables, a
 
 This experience highlights my capacity to lead full-stack development projects independently, balancing technical excellence with strong client collaboration and project management.
 
-![image1](images/1.png)
-![image2](images/2.png)
-![image3](images/3.png)
-![image4](images/4.png)
-![image5](images/5.png)
-![image6](images/6.png)
-![image7](images/7.png)
-![image8](images/8.png)
-![image9](images/9.png)
-![image10](images/10.png)
+![image1](images/1.jpg)
+![image2](images/2.jpg)
+![image3](images/3.jpg)
+![image4](images/4.jpg)
+![image5](images/5.jpg)
+![image6](images/6.jpg)
+![image7](images/7.jpg)
+![image8](images/8.jpg)
+![image9](images/9.jpg)
+![image10](images/10.jpg)
 
 
 

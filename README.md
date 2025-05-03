@@ -1,6 +1,19 @@
 # NCPA
 
-Website: [Link]https://tournaments.ncpaofficial.com/)
+Website: (https://tournaments.ncpaofficial.com/)
+
+
+![image1](images/1.jpg)
+![image2](images/2.jpg)
+![image3](images/3.jpg)
+![image4](images/4.jpg)
+![image5](images/5.jpg)
+![image6](images/6.jpg)
+![image7](images/7.jpg)
+![image8](images/8.jpg)
+![image9](images/9.jpg)
+![image10](images/10.jpg)
+
 
 This project was developed for a client through my company, VitalIT Solutions LLC, for the National Collegiate Pickleball Association (NCPA). The software includes an intuitive admin panel for managing tournaments and player profiles, along with a sleek user interface that allows players to easily create accounts, register for tournaments, and track their personal statistics.
 
@@ -27,18 +40,6 @@ Developed independently, this project showcases not only my technical skills but
 I also handled project management, organizing timelines, setting deliverables, and prioritizing features to ensure the project stayed on track and met deadlines. This included overseeing the full development lifecycle, from initial design and planning to testing and deployment, all while balancing the technical challenges with the business goals of the client. My ability to manage client relationships and maintain clear communication helped build a system that was not only technically robust but also tailored specifically to the needs of the NCPA.
 
 This experience highlights my capacity to lead full-stack development projects independently, balancing technical excellence with strong client collaboration and project management.
-
-![image1](images/1.jpg)
-![image2](images/2.jpg)
-![image3](images/3.jpg)
-![image4](images/4.jpg)
-![image5](images/5.jpg)
-![image6](images/6.jpg)
-![image7](images/7.jpg)
-![image8](images/8.jpg)
-![image9](images/9.jpg)
-![image10](images/10.jpg)
-
 
 
 
